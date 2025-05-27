@@ -1,0 +1,2 @@
+# Optimizing-Airport-Traffic-and-Delay-Management-using-Graph-Based-Models-
+This project addresses the growing challenge of airport congestion and delay by applying graph-based models to optimize aircraft routing and schedule efficiency.   Nodes represent terminals, gates, runways; edges represent taxiways.   The primary goal is to enhance operational efficiency, minimize delays, and improve passenger experience.
